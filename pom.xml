@@ -367,10 +367,10 @@
             <sourceDirectory>src/main/asciidoc</sourceDirectory>
             <attributes>
               <icons>font</icons>
-              <pagenums />
+              <pagenums></pagenums>
               <version>${project.version}</version>
-              <toc />
-              <idprefix />
+              <toc></toc>
+              <idprefix></idprefix>
               <idseparator>-</idseparator>
             </attributes>
           </configuration>
